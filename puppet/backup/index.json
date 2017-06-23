@@ -13,6 +13,14 @@
       "text": "intro.md",
       "credits": ""
     },
+    "assets": {
+      "client": [
+        {
+          "file": "*.pp",
+          "target": "/home/scrapbook/tutorial/"
+        }
+      ]
+    },
     "finish": {
       "text": "finish.md"
     }
